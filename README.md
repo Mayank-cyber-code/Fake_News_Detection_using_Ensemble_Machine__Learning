@@ -26,9 +26,6 @@ The dataset consists of news articles labeled as fake (0) or real (1).
 Loaded from FakeDataset.csv and cleaned for missing or inconsistent labels.
 
 # Installation
-Clone this repository and install all requirements:
-
-git clone https://github.com/yourusername/fake-news-detection.git
 cd fake-news-detection
 pip install -r requirements.txt
 
